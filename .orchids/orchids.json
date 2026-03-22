@@ -1,0 +1,7 @@
+{
+  "startupCommands": [
+    "cd /home/user/app/lavoomax-site && npm install; npm run dev -- --host 0.0.0.0 --port 3000"
+  ],
+  "projectId": "c7aab527-ccf9-41fc-9e0d-1fd6aad60f06",
+  "templateId": "any"
+}
